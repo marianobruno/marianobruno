@@ -1,3 +1,40 @@
+## Nuevo paradigma: empresas digitales y agentes autónomos
+
+Estamos entrando en una nueva etapa en la construcción de productos digitales:  
+sistemas donde gran parte de la operación es ejecutada por agentes autónomos, no por equipos humanos tradicionales.
+
+En este modelo, la empresa deja de ser una estructura rígida y pasa a ser un **ecosistema de procesos orquestados**, donde:
+
+- los flujos operativos son automatizados end-to-end  
+- los agentes toman decisiones dentro de reglas definidas  
+- la intervención humana se enfoca en supervisión y dirección estratégica  
+
+Este enfoque no elimina la complejidad, pero la **redistribuye** hacia el diseño de sistemas y la definición de criterios.
+
+---
+
+### Paperclip como referencia
+
+Proyectos como Paperclip exploran esta línea: construir organizaciones altamente digitales donde los agentes ejecutan tareas, coordinan acciones y sostienen operaciones con mínima fricción.
+
+Más que una herramienta puntual, representan un cambio de paradigma:
+pasar de “software que asiste personas” a **sistemas que operan directamente el negocio**.
+
+---
+
+### Mi enfoque
+
+Estoy explorando este paradigma a través de proyectos propios, combinando:
+
+- desarrollo asistido por IA  
+- frameworks de diseño de sistemas  
+- construcción de herramientas internas (como Gatekeeper Hub)  
+
+El foco no está solo en la tecnología, sino en cómo diseñar sistemas simples que permitan escalar operación y experimentación sin perder control.
+
+---
+
+Este espacio documenta ese proceso.
 ## Gatekeeper Hub · Access Layer para PoCs
 
 Hub liviano para gestionar el acceso a PoCs y herramientas internas dentro de un ecosistema digital en crecimiento.
