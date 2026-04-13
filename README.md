@@ -11,8 +11,6 @@ En este modelo, la empresa deja de ser una estructura rígida y pasa a ser un **
 
 Este enfoque no elimina la complejidad, pero la **redistribuye** hacia el diseño de sistemas y la definición de criterios.
 
----
-
 ### Paperclip como referencia
 
 Proyectos como Paperclip exploran esta línea: construir organizaciones altamente digitales donde los agentes ejecutan tareas, coordinan acciones y sostienen operaciones con mínima fricción.
@@ -20,7 +18,8 @@ Proyectos como Paperclip exploran esta línea: construir organizaciones altament
 Más que una herramienta puntual, representan un cambio de paradigma:
 pasar de “software que asiste personas” a **sistemas que operan directamente el negocio**.
 
----
+https://paperclip.ing/
+
 
 ### Mi enfoque
 
