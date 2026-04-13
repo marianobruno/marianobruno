@@ -1,3 +1,18 @@
+## Gatekeeper Hub · Access Layer para PoCs
+
+Hub liviano para gestionar el acceso a PoCs y herramientas internas dentro de un ecosistema digital en crecimiento.
+
+Nace de un problema real: cuando la experimentación escala, el acceso y la visibilidad se desordenan.  
+Gatekeeper Hub centraliza los puntos de entrada sin agregar fricción innecesaria.
+
+- Acceso centralizado a herramientas internas y PoCs  
+- Pensado para entornos de experimentación rápida  
+- Desarrollado con asistencia de IA y frameworks propios  
+
+**Estado:** Próximo a productivo
+
+---
+
 ## Hi there 👋
 
 Trabajo en **frameworks de desarrollo asistido por IA** — sistemas y metodologías para llevar
