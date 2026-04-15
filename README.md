@@ -82,6 +82,4 @@ Node.js · PostgreSQL · Docker · Nginx · Ollama · n8n · Google OAuth · JWT
 
 VPS propio · Ollama (llama3.2) · n8n para automatizaciones · PostgreSQL como fuente de verdad
 
----
 
-*Construyendo con criterio. Documentando el camino.*
