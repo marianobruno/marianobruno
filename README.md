@@ -1,54 +1,57 @@
-Diseño sistemas donde la IA no asiste — opera.
- 
+## Sistemas, automatización e IA aplicada
+
+Trabajo en el cruce entre análisis, software y automatización. Me interesa diseñar sistemas donde la IA no sea un adorno ni un asistente de escritura, sino una herramienta real dentro de procesos bien pensados.
+
+No estoy buscando “reemplazar humanos” como slogan. Me interesa algo más simple y más útil: reducir fricción, ordenar operaciones, acelerar validaciones y construir soluciones que se puedan mantener en el tiempo.
+
+Hoy experimento y construyo en esa dirección: combinando criterio de análisis, arquitectura liviana y automatización pragmática.
+
 ---
- 
-La mayoría usa IA para escribir código más rápido. Yo la uso para reemplazar operaciones enteras: desde la evaluación de una idea de negocio hasta la ejecución automatizada de procesos que antes requerían equipos.
- 
-No es ciencia ficción. Es un cambio de arquitectura: en vez de personas ejecutando tareas con herramientas, son **agentes autónomos ejecutando procesos dentro de reglas que un humano diseñó**. La intervención humana pasa de operación a dirección.
- 
-Estoy construyendo en esa dirección. Esto es lo que hago y cómo pienso.
- 
+
+## Qué hago
+
+**Evalúo ideas antes de construirlas**  
+Uso IA como apoyo para cuestionar supuestos, explorar alternativas y detectar debilidades antes de invertir tiempo en desarrollar.
+
+**Armo infraestructura propia para experimentar con autonomía**  
+Trabajo con VPS, Ollama, n8n y PostgreSQL para probar flujos y sistemas sin depender por completo de servicios externos.
+
+**Diseño herramientas internas y capas de orden**  
+Cuando aparecen varios experimentos, integraciones o PoCs, suelo enfocarme en resolver acceso, visibilidad, trazabilidad y mantenimiento.
+
 ---
- 
-## Qué construyo
- 
-**Frameworks para el ciclo completo: idea → validación → arquitectura → build**
-Antes de escribir una línea de código, la IA me ayuda a destruir la idea. Si sobrevive, recién ahí construyo. Esto no es "vibe coding" — es un proceso de diseño donde la IA actúa como un segundo cerebro crítico.
- 
-**Infraestructura propia para correr IA de forma autónoma**
-VPS propio con Ollama, n8n para orquestación, PostgreSQL como fuente de verdad. Sin dependencia de plataformas que mañana cambian sus precios o sus términos. Control total.
- 
-**Sistemas de acceso y gestión para ecosistemas internos**
-Cuando experimentás rápido, el desorden escala igual de rápido. Construyo las capas de orden que permiten seguir experimentando sin perder visibilidad.
- 
+
+## En qué me enfoco
+
+- análisis de sistemas
+- automatización de procesos
+- validación técnica y funcional de ideas
+- arquitectura simple y operable
+- uso práctico de IA en flujos reales
+
 ---
- 
-## Proyectos
- 
-### [Gatekeeper Hub](https://github.com/marianobruno)
-Capa de acceso centralizada para PoCs y herramientas internas. Nace de un problema concreto: cuando tenés 5, 10, 15 experimentos corriendo, necesitás un punto de entrada único que no agregue fricción. Eso es Gatekeeper.
- 
-### Paperclip — referencia de paradigma
-[paperclip.ing](https://paperclip.ing/) explora la idea de organizaciones donde los agentes sostienen la operación con mínima intervención humana. No es mi proyecto, pero es la mejor referencia pública de hacia dónde va esto. Lo sigo de cerca y construyo en la misma línea.
- 
----
- 
+
 ## Cómo pienso
- 
-**Si es complejo, no está terminado.** La complejidad no es señal de sofisticación — es señal de que todavía no entendí bien el problema.
- 
-**Lo que no se puede operar, no sirve.** Todo lo que construyo tiene que poder ser mantenido por alguien que no lo construyó.
- 
-**Evaluar antes de construir.** La línea de código más cara es la que no debería haberse escrito. Cada proyecto pasa por viabilidad técnica y de negocio antes de existir.
- 
-**Documentar es parte del sistema, no un extra.** Si no tiene contexto, no es mantenible. Si no es mantenible, no escala.
- 
+
+**Primero entender, después construir.**  
+No todo problema necesita más software.
+
+**Si no se puede operar, no está resuelto.**  
+Me importa que las cosas funcionen también después del entusiasmo inicial.
+
+**La complejidad a veces es deuda disfrazada.**  
+Prefiero sistemas claros, visibles y mantenibles.
+
+**Documentar también es diseñar.**  
+Sin contexto, lo que hoy parece ágil mañana se vuelve frágil.
+
 ---
- 
+
 ## Stack
- 
+
 Node.js · PostgreSQL · Docker · Nginx · Ollama · n8n · Google OAuth · JWT
- 
-Infra: VPS propio · Ollama (llama3.2) · n8n como orquestador · PostgreSQL como fuente de verdad
+
+Infraestructura sobre VPS propio, con foco en control, trazabilidad y experimentación práctica.
+
 
 
