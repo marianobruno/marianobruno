@@ -1,57 +1,65 @@
-## Sistemas, automatización e IA aplicada
 
-Trabajo en el cruce entre análisis, software y automatización. Me interesa diseñar sistemas donde la IA no sea un adorno ni un asistente de escritura, sino una herramienta real dentro de procesos bien pensados.
+# Mariano Bruno
 
-No estoy buscando “reemplazar humanos” como slogan. Me interesa algo más simple y más útil: reducir fricción, ordenar operaciones, acelerar validaciones y construir soluciones que se puedan mantener en el tiempo.
+### Estrategia Tecnológica | Transformación Empresarial | Inteligencia Artificial
 
-Hoy experimento y construyo en esa dirección: combinando criterio de análisis, arquitectura liviana y automatización pragmática.
+Me interesa transformar la manera en que las organizaciones funcionan, toman decisiones y generan resultados.
+
+Mi trayectoria combina estrategia tecnológica, gestión de proyectos y mejora de procesos, conectando **negocio, personas y tecnología**.
+
+No creo en incorporar tecnología por tendencia ni en optimizar procesos por deporte. Prefiero comprender los problemas, cuestionar supuestos y desarrollar soluciones que aporten valor.
+
+## Qué estoy explorando
+
+Actualmente mi foco está en la transformación empresarial mediante inteligencia artificial, especialmente en:
+
+- **IA aplicada al negocio:** identificar oportunidades reales de mejora y evaluar su viabilidad.
+- **Sistemas multiagente:** explorar la colaboración entre personas y agentes de IA.
+- **Automatización inteligente:** simplificar procesos y mejorar capacidades operativas.
+- **Arquitectura de soluciones:** diseñar sistemas prácticos, sostenibles y escalables.
+- **Transformación organizacional:** investigar nuevos modelos de trabajo y gestión.
+- **Mejora continua:** medir resultados, aprender y ajustar.
+
+## Proyectos y experimentación
+
+Utilizo este espacio para documentar proyectos personales, pruebas de concepto y herramientas desarrolladas para explorar nuevas tecnologías.
+
+Mi enfoque es experimental: formular hipótesis, construir prototipos, evaluar resultados y documentar lo aprendido.
+
+Los proyectos publicados pueden encontrarse en diferentes etapas de desarrollo y no representan necesariamente productos terminados.
+
+### AI Process Lab
+
+Espacio de exploración de inteligencia artificial aplicada, automatización y mejora de procesos.
+
+🔗 [Explorar AI Process Lab](https://marianobruno.github.io/)
+
+## Formación
+
+- Diplomatura CAIO (Chief Artificial Intelligence Officer).
+- Diplomatura en Gestión de Proyectos con Inteligencia Artificial.
+- Licenciatura en Negocios Digitales y Globales — en curso, finalizando tercer año.
+
+## Mi forma de trabajar
+
+**Entender antes de construir.**
+
+Creo que la tecnología tiene sentido cuando ayuda a resolver problemas reales.
+
+Me interesa conectar distintas disciplinas, comprender el contexto organizacional y transformar ideas en iniciativas concretas.
+
+La inteligencia artificial abre nuevas posibilidades, pero su verdadero potencial no está solamente en automatizar tareas, sino en repensar cómo organizamos el trabajo y generamos valor.
 
 ---
 
-## Qué hago
+### Conectemos
 
-**Evalúo ideas antes de construirlas**  
-Uso IA como apoyo para cuestionar supuestos, explorar alternativas y detectar debilidades antes de invertir tiempo en desarrollar.
-
-**Armo infraestructura propia para experimentar con autonomía**  
-Trabajo con VPS, Ollama, n8n y PostgreSQL para probar flujos y sistemas sin depender por completo de servicios externos.
-
-**Diseño herramientas internas y capas de orden**  
-Cuando aparecen varios experimentos, integraciones o PoCs, suelo enfocarme en resolver acceso, visibilidad, trazabilidad y mantenimiento.
+[LinkedIn](https://www.linkedin.com/in/) · [GitHub](https://github.com/marianobruno)
 
 ---
 
-## En qué me enfoco
+**Entender el contexto, conectar las piezas y hacer que las cosas pasen.**
 
-- análisis de sistemas
-- automatización de procesos
-- validación técnica y funcional de ideas
-- arquitectura simple y operable
-- uso práctico de IA en flujos reales
-
----
-
-## Cómo pienso
-
-**Primero entender, después construir.**  
-No todo problema necesita más software.
-
-**Si no se puede operar, no está resuelto.**  
-Me importa que las cosas funcionen también después del entusiasmo inicial.
-
-**La complejidad a veces es deuda disfrazada.**  
-Prefiero sistemas claros, visibles y mantenibles.
-
-**Documentar también es diseñar.**  
-Sin contexto, lo que hoy parece ágil mañana se vuelve frágil.
-
----
-
-## Stack
-
-Node.js · PostgreSQL · Docker · Nginx · Ollama · n8n · Google OAuth · JWT
-
-Infraestructura sobre VPS propio, con foco en control, trazabilidad y experimentación práctica.
 
 
 
